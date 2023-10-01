@@ -1,0 +1,34 @@
+.card-image_1 {
+  background-image: url("https://m.media-amazon.com/images/I/51G2+6X1GbL.jpg");
+  background-repeat: no-repeat;
+  height: 80%;
+  background-size: 100% 100%;
+  padding: 5%;
+  padding-top: 50%;
+}
+
+.card-image_2 {
+  background-image: url("https://wallpapercave.com/wp/wp7002663.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding: 5%;
+  padding-top: 50%;
+  object-fit: contain;
+}
+
+.card_links{
+  padding:15px;
+  background-color: rgb(255, 255, 255) !important;
+  height: 200px;
+}
+
+.card_links a {
+  margin-right: 20px;
+  text-decoration: none;
+  color: rgb(255, 204, 0);
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 80%;
+}
